@@ -1,0 +1,34 @@
+{
+  "version": "5",
+  "dialect": "pg",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1694168538203,
+      "tag": "0000_free_star_brand",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1694169668951,
+      "tag": "0001_sleepy_meltdown",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "5",
+      "when": 1694170913221,
+      "tag": "0002_dark_the_enforcers",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "5",
+      "when": 1694591871787,
+      "tag": "0003_melted_mentallo",
+      "breakpoints": true
+    }
+  ]
+}
